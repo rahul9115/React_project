@@ -1,0 +1,21 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tp.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "prettier": "^1.19.1"
+  },
+  "engines":{
+    "node":"12.16.0",
+    "npm":"6.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
